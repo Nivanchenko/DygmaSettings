@@ -808,6 +808,12 @@
           "label": "TAB"
         },
         {
+          "keyCode": 23785,
+          "label": "VOL+",
+          "extraLabel": "Media",
+          "verbose": "Volume up"
+        },
+        {
           "keyCode": 20497,
           "label": "UP",
           "extraLabel": "M.Wheel"
@@ -823,15 +829,9 @@
           "extraLabel": "M.Wheel"
         },
         {
-          "keyCode": 23785,
-          "label": "VOL+",
-          "extraLabel": "Media",
-          "verbose": "Volume up"
-        },
-        {
-          "keyCode": 75,
-          "label": "PAGE UP",
-          "verbose": "Page Up"
+          "keyCode": 20500,
+          "label": "LEFT",
+          "extraLabel": "M.Wheel"
         },
         {
           "keyCode": 0,
@@ -888,6 +888,12 @@
           "extraLabel": "MACRO"
         },
         {
+          "keyCode": 23786,
+          "label": "VOL-",
+          "extraLabel": "Media",
+          "verbose": "Volume down"
+        },
+        {
           "keyCode": 20484,
           "label": "LEFT",
           "extraLabel": "Mouse"
@@ -903,15 +909,9 @@
           "extraLabel": "Mouse"
         },
         {
-          "keyCode": 23786,
-          "label": "VOL-",
-          "extraLabel": "Media",
-          "verbose": "Volume down"
-        },
-        {
-          "keyCode": 78,
-          "label": "PAGE DOWN",
-          "verbose": "Page Down"
+          "keyCode": 20504,
+          "label": "RIGHT",
+          "extraLabel": "M.Wheel"
         },
         {
           "keyCode": 0,
@@ -970,24 +970,21 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 20500,
-          "label": "LEFT",
-          "extraLabel": "M.Wheel"
-        },
-        {
-          "keyCode": 20504,
-          "label": "RIGHT",
-          "extraLabel": "M.Wheel"
-        },
-        {
-          "keyCode": 24586,
-          "label": "10",
-          "extraLabel": "MACRO"
-        },
-        {
           "keyCode": 19682,
           "label": "MUTE",
           "extraLabel": "Media"
+        },
+        {
+          "keyCode": 27,
+          "label": "X"
+        },
+        {
+          "keyCode": 6,
+          "label": "C"
+        },
+        {
+          "keyCode": 25,
+          "label": "V"
         },
         {
           "keyCode": 24587,
@@ -5478,7 +5475,7 @@
       6
     ],
     [
-      8,
+      6,
       8,
       8,
       8,
@@ -5486,24 +5483,24 @@
       8,
       8,
       4,
+      3,
       9,
       10,
       9,
-      12,
-      12,
+      9,
       7,
+      3,
       10,
       10,
       10,
-      12,
-      12,
+      9,
       4,
       15,
-      9,
-      9,
-      12,
-      12,
-      12,
+      3,
+      0,
+      0,
+      0,
+      6,
       4,
       4,
       4,
