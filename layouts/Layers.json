@@ -291,8 +291,8 @@
           "verbose": "Left Alt"
         },
         {
-          "keyCode": 44,
-          "label": "SPACE"
+          "keyCode": 76,
+          "label": "DEL"
         },
         {
           "keyCode": 44,
@@ -304,8 +304,9 @@
           "verbose": "Disabled"
         },
         {
-          "keyCode": 76,
-          "label": "DEL"
+          "keyCode": 42,
+          "label": "BACKSPACE",
+          "verbose": "Backspace"
         },
         {
           "keyCode": 51770,
@@ -318,17 +319,17 @@
           "extraLabel": "OSL"
         },
         {
+          "keyCode": 76,
+          "label": "DEL"
+        },
+        {
+          "keyCode": 44,
+          "label": "SPACE"
+        },
+        {
           "keyCode": 42,
           "label": "BACKSPACE",
           "verbose": "Backspace"
-        },
-        {
-          "keyCode": 44,
-          "label": "SPACE"
-        },
-        {
-          "keyCode": 44,
-          "label": "SPACE"
         },
         {
           "keyCode": 230,
@@ -337,13 +338,13 @@
           "verbose": "AltGr"
         },
         {
+          "keyCode": 101,
+          "label": "MENU"
+        },
+        {
           "keyCode": 231,
           "label": "RIGHT WIN",
           "verbose": "Right Win"
-        },
-        {
-          "keyCode": 101,
-          "label": "MENU"
         },
         {
           "keyCode": 228,
@@ -862,19 +863,18 @@
           "extraLabel": "MACRO"
         },
         {
-          "keyCode": 24581,
-          "label": "5",
-          "extraLabel": "MACRO"
+          "keyCode": 78,
+          "label": "PAGE DOWN",
+          "verbose": "Page Down"
         },
         {
-          "keyCode": 24577,
-          "label": "1",
-          "extraLabel": "MACRO"
+          "keyCode": 75,
+          "label": "PAGE UP",
+          "verbose": "Page Up"
         },
         {
-          "keyCode": 24578,
-          "label": "2",
-          "extraLabel": "MACRO"
+          "keyCode": 73,
+          "label": "INSERT"
         },
         {
           "keyCode": 65535,
@@ -1053,8 +1053,8 @@
           "verbose": "Left Alt"
         },
         {
-          "keyCode": 44,
-          "label": "SPACE"
+          "keyCode": 76,
+          "label": "DEL"
         },
         {
           "keyCode": 44,
@@ -1082,9 +1082,8 @@
           "verbose": "Transparent"
         },
         {
-          "keyCode": 17152,
-          "label": "NEXT",
-          "extraLabel": "LED"
+          "keyCode": 41,
+          "label": "ESC"
         },
         {
           "keyCode": 20545,
@@ -1097,13 +1096,14 @@
           "extraLabel": "M.Btn"
         },
         {
-          "keyCode": 101,
-          "label": "MENU"
+          "keyCode": 230,
+          "label": "RIGHT ALT",
+          "extraLabel": "",
+          "verbose": "AltGr"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 101,
+          "label": "MENU"
         },
         {
           "keyCode": 70,
@@ -1111,9 +1111,9 @@
           "verbose": "Print Screen"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 17152,
+          "label": "NEXT",
+          "extraLabel": "LED"
         }
       ],
       [
@@ -5516,9 +5516,9 @@
       8,
       8,
       6,
-      1,
-      1,
       4,
+      3,
+      3,
       9,
       3,
       3,
@@ -5536,9 +5536,9 @@
       3,
       9,
       9,
-      12,
+      8,
       0,
-      12,
+      4,
       4,
       1,
       1,
